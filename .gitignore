@@ -1,0 +1,11 @@
+.DS_Store
+bin/
+samples/bin/
+.settings
+doc/html/
+*.suo
+*.ncb
+*.vspscc
+*.user
+*.bak
+plugin/particles/library/particles.jar
